@@ -1,8 +1,8 @@
-# Eclipse Keypont 🔑
+# Eclipse KeyPont 🔑
 
 **Bridging Go applications to cryptographic keys held in HSMs and other PKCS#11-backed hardware.**
 
-*Keypont* — "key" plus the French *pont* ("bridge") — is the [Eclipse Keypont](https://projects.eclipse.org/projects/technology.keypont)
+*KeyPont* — "key" plus the French *pont* ("bridge") — is the [Eclipse KeyPont](https://projects.eclipse.org/projects/technology.keypont)
 project. It provides the PKCS#11 and JOSE building blocks that let Go code use keys which never leave a
 hardware security module.
 
@@ -88,5 +88,5 @@ the latest scan rather than a number frozen into this page. Click a badge for th
 ## Related
 
 - [Eclipse KeySealer](https://github.com/eclipse-keysealer) — HSM-backed key management for Kubernetes
-- [Eclipse Keypont project page](https://projects.eclipse.org/projects/technology.keypont)
+- [Eclipse KeyPont project page](https://projects.eclipse.org/projects/technology.keypont)
 - [Eclipse KeySealer project page](https://projects.eclipse.org/projects/technology.keysealer)
