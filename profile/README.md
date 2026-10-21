@@ -6,6 +6,7 @@
 project. It provides the PKCS#11 and JOSE building blocks that let Go code use keys which never leave a
 hardware security module.
 
+> [!NOTE]
 > Looking for the Kubernetes side? The HSM-backed Kubernetes KMS v2 plugin lives in the sibling
 > organisation **[Eclipse KeySealer](https://github.com/eclipse-keysealer)**.
 
